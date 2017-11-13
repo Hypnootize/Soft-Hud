@@ -176,10 +176,11 @@ Scheme{Colors{
 		"RedSolid"			"192 28 0 255"
 		"Blue"				"0 28 162 140"
 		"Yellow"			"251 235 202 255"
-		"BrightYellow"		"251 235 0 255"
 		"TransparentYellow"	"251 235 202 140"
+		"BrightYellow"		"251 235 0 255"
 		//"Black"				"0 0 0 255"
 		//Changed black to a NTSC safe color
+		"GreenSolid"		 "76 107 34 255"
 		
 		"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
@@ -192,10 +193,12 @@ Scheme{Colors{
 		"HUDBlueTeamSolid"	"104 124 155 245"
 		"HUDRedTeamSolid"	"180 92 77 245"
 		"HUDDeathWarning"	"200 60 65 245"
-		
 		"HudWhite"			"255 255 255 255"
 		"HudOffWhite"		"220 220 170 255"
 		"HudBlack"			"65 65 65 255"
+		"ProgressBarBlue"	"91 122 142 255"
+		
+		"CreditsGreen"		"94 150 49 255"
 		
 		"Gray"				"178 178 178 255"
 
@@ -321,6 +324,17 @@ Scheme{Colors{
 		"LighterRed"							"220 100 80 255"
 		"LighterDarkBrown"						"59 54 48 255"
 		"DarkBrown"								"41 37 38 255"
+		
+		"UpgradeDefaultFg"		"87 82 74 255"
+		"UpgradeDefaultBg"		"111 104 94 255"
+		"UpgradeArmedFg"		"194 96 47 255"
+		"UpgradeArmedBg"		"239 128 73 255"
+		"UpgradeDepressedFg"	"204 106 57 255"
+		"UpgradeDepressedBg"	"249 138 83 255"
+		"UpgradeSelectedFg"		"204 106 57 255"
+		"UpgradeSelectedBg"		"249 138 83 255"
+		"UpgradeDisabledFg"		"64 59 52 255"
+		"UpgradeDisabledBg"		"79 77 68 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////

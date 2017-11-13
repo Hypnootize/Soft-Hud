@@ -297,7 +297,7 @@
 		"ypos"			"296"
 		"zpos"			"20"
 		"wide"			"255"
-		"tall"			"142"	[$WIN32]
+		"tall"			"118"	[$WIN32]
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
@@ -314,7 +314,7 @@
 		"ypos"			"166"
 		"zpos"			"20"
 		"wide"			"255"
-		"tall"			"142"	[$WIN32]
+		"tall"			"118"	[$WIN32]
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
