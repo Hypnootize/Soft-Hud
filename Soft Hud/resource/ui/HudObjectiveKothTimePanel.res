@@ -22,12 +22,13 @@
 		
 		if_match
 		{
-			"xpos"				"-117"
+			"xpos"			"-117"
+			"ypos"			"2"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"surface36shadow"
 			"fgcolor"		"255 255 255 255"
@@ -38,13 +39,12 @@
 			"tall"			"36"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"font"			"surface12"
-				"ypos"			"-1"
+				"font"		"surface12"
 			}
 		}	
 		"KothBluBG"
@@ -87,12 +87,13 @@
 		
 		if_match
 		{
-			"xpos"				"-87"
+			"xpos"			"-83"
+			"ypos"			"2"
 		}
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"surface36shadow"
 			"fgcolor"		"255 255 255 255"
@@ -103,13 +104,12 @@
 			"tall"			"36"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 			
 			if_match
 			{
-				"font"			"surface12"
-				"ypos"			"-1"
+				"font"		"surface12"
 			}
 		}	
 		"KothRedBG"
@@ -150,6 +150,6 @@
 		"visible"			"0"
 		"enabled"			"1"
 		"image"				"../hud/objectives_timepanel_active_bg"	
-		"scaleImage"		"1"	
+		"scaleImage"		"1"
 	}
 }
