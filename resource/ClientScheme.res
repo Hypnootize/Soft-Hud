@@ -598,7 +598,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Libel Suit"
+				"name"		"LibelSuit-Regular"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -609,7 +609,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Libel Suit"
+				"name"		"LibelSuit-Regular"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -620,7 +620,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Libel Suit"
+				"name"		"LibelSuit-Regular"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -631,7 +631,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Lobster 1.4"
+				"name"		"Lobster1.4"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -642,7 +642,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Lobster 1.4"
+				"name"		"Lobster1.4"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -653,7 +653,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Lobster 1.4"
+				"name"		"Lobster1.4"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -664,7 +664,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Lobster 1.4"
+				"name"		"Lobster1.4"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -675,7 +675,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Lobster 1.4"
+				"name"		"Lobster1.4"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -742,7 +742,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Neutra Text TF"
+				"name"		"NeutraTextTF-Book"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -753,7 +753,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Neutra Text"
+				"name"		"NeutraTextTF-Book"
 				"tall"		"13"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -764,7 +764,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"8"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -775,7 +775,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"10"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -786,7 +786,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"12"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -797,7 +797,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"14"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -808,7 +808,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"20"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -819,7 +819,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"24"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -830,7 +830,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"26"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -841,7 +841,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"27"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -852,7 +852,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"28"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -863,7 +863,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"36"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -874,7 +874,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"44"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -885,7 +885,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"48"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -896,7 +896,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"49"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -907,7 +907,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-			"name"		"Harabara"
+			"name"		"Harabara Bold"
 			"tall"		"50"
 			"weight"	"500"
 			"range"		"0x0000 0x017F"
@@ -6921,6 +6921,31 @@ Scheme{Colors{
 		{
 			"font" "resource/fonts/Soldier.ttf"
 			"name" "Soldier"
-		}			
+		}	
+		"34" 
+		{
+			"font" "resource/fonts/Harabara.ttf"
+			"name" "Harabara Bold"
+		}
+		"35" 
+		{
+			"font" "resource/fonts/Lobster.ttf"
+			"name" "Lobster1.4"
+		}
+		"36" 
+		{
+			"font" "resource/fonts/LibelSuit.ttf"
+			"name" "LibelSuit-Regular"
+		}
+		"37" 
+		{
+			"font" "resource/fonts/Neutratext.ttf"
+			"name" "NeutraTextTF-Book"
+		}
+		"38" 
+		{
+			"font" "resource/fonts/Chunkfive.ttf"
+			"name" "Chunkfive"
+		}
 	}
 }

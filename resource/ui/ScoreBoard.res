@@ -43,6 +43,11 @@
 		"src_corner_width"		"40"			
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"RedScoreBG"
 	{
@@ -63,6 +68,11 @@
 		"src_corner_width"		"40"			
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"MainBG"
 	{
@@ -79,6 +89,11 @@
 		"enabled"		"1"
 		"fillcolor"		"46 56 59 200"
 		"PaintBackgroundType"	"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"MainBG2"
 	{
@@ -96,6 +111,11 @@
 		"tabPosition"	"0"	
 		"fillcolor"		"75 47 44 200"
 		"PaintBackgroundType"	"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"MainBG3"
 		{
@@ -116,6 +136,11 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 120"
 			"PaintBackgroundType"	"0"
+
+			if_mvm
+		{
+			"visible"		"0"
+		}
 		}
 	"MainBG4"
 		{
@@ -136,6 +161,11 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 120"
 			"PaintBackgroundType"	"0"
+
+			if_mvm
+		{
+			"visible"		"0"
+		}
 		}
 	"MainBG5"
 		{
@@ -156,6 +186,11 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"0 0 0 120"
 			"PaintBackgroundType"	"0"
+
+			if_mvm
+		{
+			"visible"		"0"
+		}
 		}
 	"BlueTeamLabel"
 	{
@@ -173,6 +208,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"BlueTeamScore"
 	{
@@ -190,6 +230,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"BlueTeamPlayerCount"
 	{
@@ -206,6 +251,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"RedTeamLabel"
 	{
@@ -223,6 +273,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"RedTeamScore"
 	{
@@ -240,6 +295,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"RedTeamPlayerCount"
 	{
@@ -256,6 +316,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"ServerLabel"
 	{
@@ -272,6 +337,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"ServerTimeLeft"
 	{
@@ -288,6 +358,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"	[$WIN32]
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"BluePlayerList"
 	{
@@ -305,6 +380,11 @@
 		"autoresize"	"3"
 		"linespacing"	"15"
 		"fgcolor"		"blue"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"RedPlayerList"
 	{
@@ -322,6 +402,11 @@
 		"autoresize"	"3"
 		"linespacing"	"15"
 		"textcolor"		"red"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"VerticalLine"
 	{
@@ -338,6 +423,11 @@
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 153"
 		"PaintBackgroundType"	"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"Spectators"
 	{
@@ -387,6 +477,11 @@
 		"enabled"		"1"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"PlayerNameLabel"
 	{
@@ -404,6 +499,11 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}							
 	"HorizontalLine"
 	{
@@ -421,6 +521,11 @@
 		"tabPosition"	"0"	
 		"fillcolor"		"0 0 0 255"
 		"PaintBackgroundType"	"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 	"PlayerScoreLabel"
 	{
@@ -441,6 +546,11 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"0"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 
 	"LocalPlayerDuelStatsPanel"
@@ -456,6 +566,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 
 		"DuelingLabel"
 		{
@@ -667,6 +782,11 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"fgcolor"		"236 227 203 255"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
 	}
 
 	"LocalPlayerStatsPanel"
@@ -682,6 +802,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		if_mvm
+		{
+			"wide"		"0"
+		}
 
 		"KillsLabel"
 		{
@@ -1346,163 +1471,23 @@
 		}
 	}
 
-	"ButtonLegendBG"		[$X360]
+	"MvMScoreboard"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ButtonLegendBG"
-		"xpos"			"10"
-		"xpos_hidef"	"30"
-		"ypos"			"373"
-		"zpos"			"0"
-		"wide"			"539"
-		"wide_hidef"	"559"
-		"tall"			"38"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"	
-		"fillcolor"		"0 0 0 153"
-		"PaintBackgroundType"	"0"
-	}
-	
-	"ButtonLegend"		[$X360]
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"ButtonLegend"
-		"xpos"			"10"
-		"xpos_hidef"	"35"
-		"ypos"			"373"
-		"zpos"			"1"
-		"wide"			"539"
-		"wide_hidef"	"595"
-		"tall"			"150"
-		"visible"		"1"
-										
-		"SelectHintIcon"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"SelectHintIcon"
-			"font"			"GameUIButtons"
-			"xpos"			"10"
-			"xpos_hidef"	"0"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"300"
-			"tall"			"38"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"C"
-			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
-		}
+		"ControlName"		"CTFHudMannVsMachineScoreboard"
+		"fieldName"			"MvMScoreboard"
+		"xpos"				"c-300"
+		"ypos"				"-8"
+		"zpos"				"10"
+		"wide"				"f0"
+		"tall"				"480"
+		"visible"			"0"
+		"enabled"			"1"
 		
-		"SelectHintLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"SelectHintLabel"
-			"font"			"ScoreboardMedium"
-			"xpos"			"25"
-			"xpos_lodef"	"37"
-			"ypos"			"2"
-			"zpos"			"1"
-			"wide"			"300"
-			"tall"			"39"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"#GameUI_Select"
-			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
-		}
+		"verbose"			"1"
 		
-		"GamerCardIcon"
+		if_mvm
 		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"GamerCardIcon"
-			"font"			"GameUIButtons"
-			"xpos"			"150"
-			"xpos_hidef"	"145"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"300"
-			"tall"			"38"
-			"autoResize"	"0"
-			"pinCorner"		"0"
 			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"A"
-			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
 		}
-		
-		"GamerCardLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"GamerCardLabel"
-			"font"			"ScoreboardMedium"
-			"xpos"			"170"
-			"xpos_lodef"	"177"
-			"ypos"			"2"
-			"zpos"			"1"
-			"wide"			"300"
-			"tall"			"39"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"#TF_ViewGamercard"
-			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
-		}
-		
-		"ReputationIcon"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"ReputationIcon"
-			"font"			"GameUIButtons"
-			"xpos"			"350"
-			"xpos_hidef"	"378"
-			"ypos"			"0"
-			"zpos"			"1"
-			"wide"			"300"
-			"tall"			"38"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"X"
-			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
-		}
-		
-		"ReputationLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"ReputationLabel"
-			"font"			"ScoreboardMedium"
-			"xpos"			"403"
-			"xpos_lodef"	"377"
-			"ypos"			"2"
-			"zpos"			"1"
-			"wide"			"300"
-			"tall"			"39"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"labelText"		"#GameUI_PlayerReview"
-			"textAlignment"	"Left"
-			"dulltext"		"0"
-			"brighttext"	"0"
-		}
-	}				
+	}		
 }
